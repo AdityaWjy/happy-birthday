@@ -119,6 +119,11 @@ h4 {
   padding: 0 0 0 20px;
 }
 
+.card .details p a {
+  font-style: none;
+  color: red;
+}
+
 .card .details h4 {
   text-align: center;
 }
