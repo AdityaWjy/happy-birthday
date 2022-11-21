@@ -6,7 +6,7 @@ body {
   background: #fde3a7; /*CAPE HONEY*/
   margin: 0px;
   padding: 0px;
-overflow-x : hidden; 
+ 
 }
 
 ::selection {
@@ -69,6 +69,7 @@ h4 {
   background: #92a29c;
   transform-origin: left;
   transform: skewY(-45deg);
+  overflow-x : hidden;
 }
 
 .card .imgBox {
